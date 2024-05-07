@@ -1,0 +1,30 @@
+
+
+
+.header{
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; */
+}
+.h2-header{
+    margin-top: 70px;
+    margin-left: 10rem;
+    color:#fff;
+}
+.p-header{
+    margin-left: 10rem; 
+    margin-top: 1rem;
+    color:#fff;
+}
+.btn-contact{
+    color:#fff;
+    /* background-color: rgb(13, 149, 217); */
+    /* border: none; */
+    margin-left: 10rem;
+    margin-top: 2rem;
+}
+.btn-contact:hover{
+    color:#fff;
+    background-color: rgb(10, 130, 190);
+}
